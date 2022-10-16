@@ -1,2 +1,2 @@
 # tic-tac-toe-app-android
-Tic tac toe application made from tutorial on youtube from Code With Cal.
+Tic tac toe application made from Code With Cal's tutorial on youtube.
